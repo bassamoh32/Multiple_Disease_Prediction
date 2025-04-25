@@ -1,2 +1,2 @@
 # Project Architecture
-![Project Architecture](./Project_Architect..png)
+![Project Architecture](./Project_Architect.png)
